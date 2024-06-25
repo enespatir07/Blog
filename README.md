@@ -1,4 +1,4 @@
 # Simple Blog App
-!(imgs/1.png)
-!(imgs/2.png)
-!(imgs/3.png)
+![first image](imgs/1.png)
+![second image](imgs/2.png)
+![third image](imgs/3.png)
